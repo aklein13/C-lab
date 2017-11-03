@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.15
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Osoby", "Osoby\Osoby.csproj", "{CC108E18-AD83-4A4F-87EE-A9356B6E694C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestOsób", "TestOsób\TestOsób.csproj", "{3371B25D-9EA5-4C45-BFB3-66C43DA4CAEB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CC108E18-AD83-4A4F-87EE-A9356B6E694C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC108E18-AD83-4A4F-87EE-A9356B6E694C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC108E18-AD83-4A4F-87EE-A9356B6E694C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC108E18-AD83-4A4F-87EE-A9356B6E694C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3371B25D-9EA5-4C45-BFB3-66C43DA4CAEB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3371B25D-9EA5-4C45-BFB3-66C43DA4CAEB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3371B25D-9EA5-4C45-BFB3-66C43DA4CAEB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3371B25D-9EA5-4C45-BFB3-66C43DA4CAEB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5DC221C6-AFDC-4380-BFEB-AB61106BB022}
+	EndGlobalSection
+EndGlobal
